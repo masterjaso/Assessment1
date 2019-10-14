@@ -1,0 +1,16 @@
+{
+  "name": "homevest-test",
+  "version": "1.0.0",
+  "description": "Please write your solution in Javascript - if that is inconvenient, please let us know and we'll accommodate!",
+  "main": "solutions.js",
+  "scripts": {
+    "test": "mocha test.js --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
